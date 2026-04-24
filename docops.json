@@ -1,12 +1,12 @@
 {
-    "version": "0.5.0",
+    "version": "0.5.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/logicwind/DocOps/releases/download/v0.5.0/docops_0.5.0_windows_x86_64.zip",
+            "url": "https://github.com/logicwind/DocOps/releases/download/v0.5.1/docops_0.5.1_windows_x86_64.zip",
             "bin": [
                 "docops.exe"
             ],
-            "hash": "bf91d4242513c30b0deea07edd6afecf1a657b3ebf87a359e06d7b1ce10000a1"
+            "hash": "e67f7477b9d164a746cf6d4cded91bbee9716a22a0091db4e8804e8acb6b68fd"
         }
     },
     "homepage": "https://github.com/logicwind/DocOps",
